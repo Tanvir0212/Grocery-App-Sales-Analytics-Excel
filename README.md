@@ -1,7 +1,7 @@
 <img width="1434" height="653" alt="Dashboard_Image" src="https://github.com/user-attachments/assets/f7a13093-9f45-436a-bb16-88904553bcc2" />
 
 
-Here's the insights and recommendations for BlinkIT Grocery Delivery App analysis:
+# Here's the insights and recommendations for BlinkIT Grocery Delivery App analysis:
 
 ## 📊 Key Performance Overview
 
